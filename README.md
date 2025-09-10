@@ -16,7 +16,7 @@
    git config gitleaks.enable true
 5. Тестування
    Додати у файл тестовий токен
-   token = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+   Telegram token 7957704532:AAHq3Supo-FS4o1q8pqydBvdXY4GGwO3zeQ
    cat TOKEN_test
    git add .
    git commit -m "test gitleaks"
